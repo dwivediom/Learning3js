@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,700&display=swap');
+
+#nav{
+  color: white ; 
+  position: absolute ;
+  z-index: 4;
+  top: 2rem;
+   
+   display: flex;
+   justify-content: space-evenly;
+   gap: 10rem;
+
+   width: 100%
+}
+.list{ 
+      
+     display: flex;
+     gap:4rem
+}
+.webgl{ 
+     margin: 0 ;
+     padding: 0 ;
+     max-width:inherit;
+     z-index: 3;
+}
+.title { 
+     position:  absolute;
+     color: white;
+     font-size: 3rem;
+     font-family: 'Poppins', sans-serif;
+     left: 35%;
+     top:65%; 
+     transform: translate(-5%, -35%);
+
+}
