@@ -1,7 +1,6 @@
 'use client '
 
 import Image from 'next/image'
-import Testing from '@/component/testing'
 import Testing2 from '@/component/Testing2'
 import { ThreeScene } from '@/component/Testing3'
 import Navbar from '@/component/Navbar'
